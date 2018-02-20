@@ -10,6 +10,16 @@ vi README.md (to edit README.md) <br>
 git add README.md <br>
 git commit –m “Commit 0” <br>
 
+### Commit 1
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 1” <br>
+
+### Commit 2
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 2” <br>
+
 ### Commit 3
 git log (to see the version number of Commit 0) <br>
 git checkout <the version number of Commit 0> <br>
@@ -23,3 +33,9 @@ git commit –m “Commit 3” <br>
 vi README.md (to edit README.md) <br>
 git add . <br>
 git commit –m “Commit 4” <br>
+
+### Commit 5
+git merge master <br>
+vi README.md (to fix the conflict) <br>
+git add . <br>
+git commit –m “Commit 5” <br>
