@@ -32,3 +32,8 @@ git checkout –b bug-fix-experimental <br>
 vi README.md (to edit README.md) <br>
 git add . <br>
 git commit –m “Commit 7” <br>
+
+### Commit 8
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 8” <br>
