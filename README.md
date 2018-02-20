@@ -23,3 +23,12 @@ git commit –m “Commit 3” <br>
 vi README.md (to edit README.md) <br>
 git add . <br>
 git commit –m “Commit 4” <br>
+
+### Commit 7
+git log (to see the version number of Commit 4) <br>
+git checkout <the version number of Commit 4> <br>
+git checkout –b bug-fix-experimental <br>
+***Now we are on the bug-fix-experimental branch*** <br>
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 7” <br>
