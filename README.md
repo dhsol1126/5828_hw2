@@ -44,3 +44,30 @@ git commit –m “Commit 5” <br>
 vi README.md (to edit README.md) <br>
 git add . <br>
 git commit –m “Commit 6” <br>
+
+### Commit 7
+git log (to see the version number of Commit 4) <br>
+git checkout <the version number of Commit 4> <br>
+git checkout –b bug-fix-experimental <br>
+***Now we are on the bug-fix-experimental branch*** <br>
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 7” <br>
+
+### Commit 8
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 8” <br>
+
+### Commit 9
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 9” <br>
+
+### Commit 11
+git checkout bug-fix <br>
+***Now we are on the bug-fix branch*** <br>
+git merge bug-fix-experimental <br>
+vi README.md (to fix the conflict) <br>
+git add . <br>
+git commit –m “Commit 11” <br>
