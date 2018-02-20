@@ -9,3 +9,8 @@ git init <br>
 vi README.md (to edit README.md) <br>
 git add README.md <br>
 git commit –m “Commit 0” <br>
+
+### Commit 1
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 1” <br>
