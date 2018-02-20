@@ -18,3 +18,8 @@ git checkout –b bug-fix <br>
 vi README.md (to edit README.md) <br>
 git add . <br>
 git commit –m “Commit 3” <br>
+
+### Commit 4
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 4” <br>
