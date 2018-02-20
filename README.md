@@ -71,3 +71,8 @@ git merge bug-fix-experimental <br>
 vi README.md (to fix the conflict) <br>
 git add . <br>
 git commit –m “Commit 11” <br>
+
+### Commit 12
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 12” <br>
