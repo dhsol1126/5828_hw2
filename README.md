@@ -91,3 +91,9 @@ git merge bug-fix <br>
 vi README.md (to fix the conflict) <br>
 git add . <br>
 git commit –m “Commit 13” <br>
+
+### Commit 14
+***the image file that displays the commit graph is added*** <br>
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 14” <br>
