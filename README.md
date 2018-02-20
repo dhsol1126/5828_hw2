@@ -39,3 +39,8 @@ git merge master <br>
 vi README.md (to fix the conflict) <br>
 git add . <br>
 git commit –m “Commit 5” <br>
+
+### Commit 6
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 6” <br>
