@@ -19,3 +19,10 @@ git commit –m “Commit 1” <br>
 vi README.md (to edit README.md) <br>
 git add . <br>
 git commit –m “Commit 2” <br>
+
+### Commit 10
+git checkout master <br>
+***Now we are on the master branch*** <br>
+vi README.md (to edit README.md) <br>
+git add . <br>
+git commit –m “Commit 10” <br>
